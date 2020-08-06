@@ -13,6 +13,8 @@ public class ZombieAttack {
             }
             //TODO. Write you code below this line.
             int cnt = 0, sum = 0;
+
+           //paul kuzma
             int[] num1 = new int[inhabitants.length];
             System.out.println("Day " + cnt + " " + Arrays.toString(inhabitants));
             do {
